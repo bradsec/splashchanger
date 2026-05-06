@@ -1,0 +1,19 @@
+# Build output
+/build/
+/splashchanger
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Go
+*.exe
+*.test
+*.out
